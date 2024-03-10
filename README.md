@@ -1,4 +1,4 @@
-# Hi there! 👋
+<!-- # Hi there! 👋
 
 I'm a seasoned Full Stack Developer proficient in MeanStack and MernStack technologies. With a solid background in MongoDB, Express.js, Angular/React, and Node.js, I specialize in developing scalable web applications that prioritize exceptional user experiences.
 
@@ -16,7 +16,7 @@ I'm a seasoned Full Stack Developer proficient in MeanStack and MernStack techno
 - **Location-based Services**: Integrated Google Maps for precise location-based services and enhanced user navigation experience.
 - **Global Accessibility**: Implemented i18n language translation for global accessibility, ensuring inclusivity and usability across diverse user demographics. -->
 
-<details>
+<!-- <details>
   <summary>Seamless Integrations</summary>
   Successfully integrated Aircall and Hubspot into applications, alongside robust payment gateways like PayTabs, Stripe, and Razorpay.
 </details>
@@ -49,4 +49,57 @@ I am deeply passionate about crafting innovative solutions and thrive on tacklin
 
 I am enthusiastic about collaborating on exciting projects and contributing to meaningful endeavors. Feel free to explore my repositories and reach out for discussions, contributions, or inquiries.
 
-Let's create something amazing together!
+Let's create something amazing together! -->
+
+
+
+# Hi there! 👋
+
+Welcome to my world of Full Stack Development! I'm dedicated to crafting immersive digital experiences and pushing the boundaries of technology.
+
+## 🚀 Expertise
+
+- **Backend Brilliance**: I architect robust backend solutions, ensuring seamless data management and system functionality.
+- **Frontend Wizardry**: From captivating interfaces to intuitive designs, I bring visions to life with flair and finesse.
+- **Tool Mastery**: Armed with the latest tools and methodologies, I streamline development and uphold code quality.
+
+## 🏆 Achievements
+
+### Seamless Integrations
+
+![Seamless Integrations](https://via.placeholder.com/300)
+
+Successfully integrated Aircall and Hubspot, alongside robust payment gateways like PayTabs, Stripe, and Razorpay.
+
+### Real-time Communication
+
+![Real-time Communication](https://via.placeholder.com/300)
+
+Implemented chat functionalities using Socket.io and Ding for mobile recharge services, enhancing user engagement and experience.
+
+### Enhanced User Engagement
+
+![Enhanced User Engagement](https://via.placeholder.com/300)
+
+Leveraged Twilio to enable SMS notifications and video calling features, facilitating effective communication and interaction.
+
+### Location-based Services
+
+![Location-based Services](https://via.placeholder.com/300)
+
+Integrated Google Maps for precise location-based services and enhanced user navigation experience.
+
+### Global Accessibility
+
+![Global Accessibility](https://via.placeholder.com/300)
+
+Implemented i18n language translation for global accessibility, ensuring inclusivity and usability across diverse user demographics.
+
+## 🌟 Passion & Vision
+
+I thrive on challenges and am committed to delivering exceptional user experiences. Let's collaborate and turn ideas into reality!
+
+## 🔗 Let's Connect!
+
+Explore my repositories and reach out for discussions, contributions, or inquiries. Together, we can create something extraordinary!
+
