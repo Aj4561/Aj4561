@@ -65,35 +65,30 @@ Welcome to my world of Full Stack Development! I'm dedicated to crafting immersi
 
 ## 🏆 Achievements
 
-### Seamless Integrations
+<details>
+  <summary>Seamless Integrations</summary>
+  Successfully integrated Aircall and Hubspot into applications, alongside robust payment gateways like PayTabs, Stripe, and Razorpay.
+</details>
 
-![Seamless Integrations](https://via.placeholder.com/300)
+<details>
+  <summary>Real-time Communication</summary>
+  Implemented chat functionalities using Socket.io and Ding for mobile recharge services, enhancing user engagement and experience.
+</details>
 
-Successfully integrated Aircall and Hubspot, alongside robust payment gateways like PayTabs, Stripe, and Razorpay.
+<details>
+  <summary>Enhanced User Engagement</summary>
+  Leveraged Twilio to enable SMS notifications and video calling features, facilitating effective communication and interaction.
+</details>
 
-### Real-time Communication
+<details>
+  <summary>Location-based Services</summary>
+  Integrated Google Maps for precise location-based services and enhanced user navigation experience.
+</details>
 
-![Real-time Communication](https://via.placeholder.com/300)
-
-Implemented chat functionalities using Socket.io and Ding for mobile recharge services, enhancing user engagement and experience.
-
-### Enhanced User Engagement
-
-![Enhanced User Engagement](https://via.placeholder.com/300)
-
-Leveraged Twilio to enable SMS notifications and video calling features, facilitating effective communication and interaction.
-
-### Location-based Services
-
-![Location-based Services](https://via.placeholder.com/300)
-
-Integrated Google Maps for precise location-based services and enhanced user navigation experience.
-
-### Global Accessibility
-
-![Global Accessibility](https://via.placeholder.com/300)
-
-Implemented i18n language translation for global accessibility, ensuring inclusivity and usability across diverse user demographics.
+<details>
+  <summary>Global Accessibility</summary>
+  Implemented i18n language translation for global accessibility, ensuring inclusivity and usability across diverse user demographics.
+</details>
 
 ## 🌟 Passion & Vision
 
