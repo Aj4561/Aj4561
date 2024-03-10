@@ -10,11 +10,36 @@ I'm a seasoned Full Stack Developer proficient in MeanStack and MernStack techno
 
 ## Achievements
 
-- **Seamless Integrations**: Successfully integrated Aircall and Hubspot into applications, alongside robust payment gateways like PayTabs, Stripe, and Razorpay.
+<!-- - **Seamless Integrations**: Successfully integrated Aircall and Hubspot into applications, alongside robust payment gateways like PayTabs, Stripe, and Razorpay.
 - **Real-time Communication**: Implemented chat functionalities using Socket.io and Ding for mobile recharge services, enhancing user engagement and experience.
 - **Enhanced User Engagement**: Leveraged Twilio to enable SMS notifications and video calling features, facilitating effective communication and interaction.
 - **Location-based Services**: Integrated Google Maps for precise location-based services and enhanced user navigation experience.
-- **Global Accessibility**: Implemented i18n language translation for global accessibility, ensuring inclusivity and usability across diverse user demographics.
+- **Global Accessibility**: Implemented i18n language translation for global accessibility, ensuring inclusivity and usability across diverse user demographics. -->
+
+<details>
+  <summary>Seamless Integrations</summary>
+  Successfully integrated Aircall and Hubspot into applications, alongside robust payment gateways like PayTabs, Stripe, and Razorpay.
+</details>
+
+<details>
+  <summary>Real-time Communication</summary>
+  Implemented chat functionalities using Socket.io and Ding for mobile recharge services, enhancing user engagement and experience.
+</details>
+
+<details>
+  <summary>Enhanced User Engagement</summary>
+  Leveraged Twilio to enable SMS notifications and video calling features, facilitating effective communication and interaction.
+</details>
+
+<details>
+  <summary>Location-based Services</summary>
+  Integrated Google Maps for precise location-based services and enhanced user navigation experience.
+</details>
+
+<details>
+  <summary>Global Accessibility</summary>
+  Implemented i18n language translation for global accessibility, ensuring inclusivity and usability across diverse user demographics.
+</details>
 
 ## Passion & Vision
 
